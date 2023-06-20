@@ -5,7 +5,7 @@ import shoe from "../public/shoes-wasatch-running-3.png"
 import skirt from "../public/22-229905_pink-girl-girly-skirt-skirts-clothes-clothing-pink.png"
 import shirt from "../public/358-3585688_check-shirts-png-background-stylish-check-shirts-for.png"
 //import { Inter } from 'next/font/google'
-import Cards1 from './Cards/cards1.js';
+// Cards1 from './Cards/cards1.js';
 
 //const inter = Inter({ subsets: ['latin'] })
 
